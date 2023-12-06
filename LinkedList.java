@@ -1,3 +1,8 @@
+/**
+ * This class represents a singly linked list with various operations like append,
+ * prepend, insert, remove, and more.
+ */
+
 public class LinkedList {
 
     private Node head;
