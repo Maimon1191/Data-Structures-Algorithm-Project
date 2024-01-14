@@ -3,11 +3,6 @@
 
 This project is a collection of Data Structures and Algorithms implementations and solutions to various coding problems. It serves as a learning resource and a reference for DSA concepts and techniques.
 
-![Java Logo](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Java-Logo.jpg)
-![Data Structures](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/AdobeStock_240775642.jpeg)
-
-
-
 
 ## Table of Contents
 1. Data Structures
@@ -26,3 +21,5 @@ This project is a collection of Data Structures and Algorithms implementations a
    - [Merge Sort](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/MergeSort.java)
    - [DFS & BFS](#dfs-and-bfs)
 
+![Java Logo](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Java-Logo.jpg)
+![Data Structures](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/AdobeStock_240775642.jpeg)
