@@ -17,6 +17,6 @@ This project is a collection of Data Structures and Algorithms implementations a
    
 2. Algorithms
    - [Basic Sorts](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/BasicSorts.java)
-   - [Merge Sort](#merge-sort)
+   - [Merge Sort](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/MergeSort.java)
    - [DFS & BFS](#dfs-and-bfs)
 
