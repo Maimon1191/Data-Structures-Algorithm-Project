@@ -12,7 +12,7 @@ This project is a collection of Data Structures and Algorithms implementations a
    - [StackLL](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/StackLL.java)
    - [Graphs](#graphs)
    - [Heaps](#heaps)
-   - [Hash Table](#hash-table)
+   - [Hash Table](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/HashTable.java)
    - [Binary Search Tree](#binary-search-tree)
    
 2. Algorithms
