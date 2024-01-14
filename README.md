@@ -3,7 +3,7 @@
 
 This project is a collection of Data Structures and Algorithms implementations and solutions to various coding problems. It serves as a learning resource and a reference for DSA concepts and techniques.
 
-![Java Logo](https://images.app.goo.gl/hXa4Zty9jYhmGCxn6)
+![Java Logo](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Java-Logo.jpg)
 ![Data Structures](images/data_structures.png) 
 
 
