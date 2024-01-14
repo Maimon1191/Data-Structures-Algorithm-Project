@@ -4,18 +4,18 @@
 This project is a collection of Data Structures and Algorithms implementations and solutions to various coding problems. It serves as a learning resource and a reference for DSA concepts and techniques.
 
 ## Table of Contents
-1. [Data Structures](#data-structures)
-   - Linked List
-   - Doubly Linked List
-   - Stack & Queues
-   - Graphs
-   - Heaps
-   - Hash Table
-   - Binary Search Tree
+1. [Data Structures]
+   - [Linked List](#linked-list)
+   - [Doubly Linked List](#doubly-linked-list)
+   - [Stack & Queues](#stack-and-queues)
+   - [Graphs](#graphs)
+   - [Heaps](#heaps)
+   - [Hash Table](#hash-table)
+   - [Binary Search Tree](#binary-search-tree)
    
-2. [Algorithms](#algorithms)
-   - Basic Sorts
-   - Merge Sort
-   - DFS & BFS
+2. [Algorithms]
+   - [Basic Sorts](#basic-sorts)
+   - [Merge Sort](#merge-sort)
+   - [DFS & BFS](#dfs-and-bfs)
 
-3. [LeetCode Problems](#leetcode)
+3. [LeetCode Problems]
