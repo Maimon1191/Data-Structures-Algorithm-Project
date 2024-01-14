@@ -9,7 +9,7 @@ This project is a collection of Data Structures and Algorithms implementations a
    - [Doubly Linked List](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/DoublyLinkedList.java)
    - [Queue](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Queue.java)
    - [Stack](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Stack.java)
-   - [StackLL]
+   - [StackLL](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/StackLL.java)
    - [Graphs](#graphs)
    - [Heaps](#heaps)
    - [Hash Table](#hash-table)
