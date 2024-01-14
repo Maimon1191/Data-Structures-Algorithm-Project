@@ -1,0 +1,83 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+
+/**
+ * This class represents an undirected graph using an adjacency list.
+ */
+public class Graph {
+
+    private HashMap<String, ArrayList<String>> adjList = new HashMap<>();
+
+    /**
+     * Get the adjacency list of the graph.
+     * @return the adjacency list represented as a HashMap.
+     */
+    public HashMap<String, ArrayList<String>> getAdjList() {
+        return adjList;
+    }
+
+    /**
+     * Print the graph's adjacency list.
+     */
+    public void printGraph() {
+        System.out.println(adjList);
+    }
+
+    /**
+     * Add a new vertex to the graph.
+     * @param vertex the name of the vertex to be added.
+     * @return true if the vertex was added successfully, false if it already exists.
+     */
+    public boolean addVertex(String vertex) {
+        if (adjList.get(vertex) == null) {
+            adjList.put(vertex, new ArrayList<String>());
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Add an edge between two vertices in the graph.
+     * @param vertex1 the first vertex.
+     * @param vertex2 the second vertex.
+     * @return true if the edge was added successfully, false if any of the vertices do not exist.
+     */
+    public boolean addEdge(String vertex1, String vertex2) {
+        if (adjList.get(vertex1) != null && adjList.get(vertex2) != null) {
+            adjList.get(vertex1).add(vertex2);
+            adjList.get(vertex2).add(vertex1);
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Remove an edge between two vertices in the graph.
+     * @param vertex1 the first vertex.
+     * @param vertex2 the second vertex.
+     * @return true if the edge was removed successfully, false if any of the vertices do not exist.
+     */
+    public boolean removeEdge(String vertex1, String vertex2) {
+        if (adjList.get(vertex1) != null && adjList.get(vertex2) != null) {
+            adjList.get(vertex1).remove(vertex2);
+            adjList.get(vertex2).remove(vertex1);
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Remove a vertex and all its connections from the graph.
+     * @param vertex the vertex to be removed.
+     * @return true if the vertex was removed successfully, false if it does not exist.
+     */
+    public boolean removeVertex(String vertex) {
+        if (adjList.get(vertex) == null) return false;
+        for (String otherVertex : adjList.get(vertex)) {
+            // Remove any connections 
+            adjList.get(otherVertex).remove(vertex);
+        }
+        adjList.remove(vertex);
+        return true;
+    }
+}
