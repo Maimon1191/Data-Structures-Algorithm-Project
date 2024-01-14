@@ -10,7 +10,7 @@ This project is a collection of Data Structures and Algorithms implementations a
    - [Queue](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Queue.java)
    - [Stack](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Stack.java)
    - [StackLL](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/StackLL.java)
-   - [Graphs](#graphs)
+   - [Graphs](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Graph)
    - [Heaps](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/Heap.java)
    - [Hash Table](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/HashTable.java)
    - [Binary Search Tree](#binary-search-tree)
