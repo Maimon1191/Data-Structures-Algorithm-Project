@@ -16,8 +16,7 @@ This project is a collection of Data Structures and Algorithms implementations a
    - [Binary Search Tree](#binary-search-tree)
    
 2. Algorithms
-   - [Basic Sorts](#basic-sorts)
+   - [Basic Sorts](https://github.com/Maimon1191/Data-Structures-Algorithm-Project/blob/main/BasicSorts.java)
    - [Merge Sort](#merge-sort)
    - [DFS & BFS](#dfs-and-bfs)
 
-3. LeetCode Problems
